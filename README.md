@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhiramaraju</h1>
-<h3 align="center">A student from AVV</h3>
+<h3 align="center">A student from AVV-CMB</h3>
 
 <p align="left"> <a href="https://twitter.com/abhiram_4525" target="blank"><img src="https://img.shields.io/twitter/follow/abhiram_4525?logo=twitter&style=for-the-badge" alt="abhiram_4525" /></a> </p>
 
